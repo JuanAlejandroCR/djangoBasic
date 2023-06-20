@@ -1,2 +1,2 @@
 # djangoBasic
-Basic course of Django
+Basic course of Django mdfks
